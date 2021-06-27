@@ -1,6 +1,7 @@
 # Ignore
 Resources/.ipynb_checkpoints
 .vscode/
+app_practice.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
