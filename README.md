@@ -8,7 +8,7 @@ The purpose of this analysis is to evaluate the temperatures in Oahu in the mont
 ### Statistics for the Temperature in June:
 ![June_Stats](https://github.com/mbroad1/Module-9-Surfs-Up/blob/main/Images/june_stats.png)
 - In the month of June, on average, the temperature is about **74.9F**, which is a warm temperature.
-  - Considering this average is from all the Junes from 2010-2017, this means that June is a reliably warm month and thus surf and ice cream sales would be consistent and/or high in the month of June.
+  - Considering this average is from all the June's from 2010-2017, this means that June is a reliably warm month and thus surf and ice cream sales would be consistent and/or high in the month of June.
 - The first quartile of the temperature data is **73F** meaning that the temperature in June around its lowest is only a couple of degrees less than the average.
   - Although, the minimum temperature is **64F**, that is the lowest temperature of all the 1700 counts, so looking at the first quartile gives a better idea of what the temperature on the "cooler" end in June would be.
 -  Likewise, the third quartile of the temperature data is **77F**.
